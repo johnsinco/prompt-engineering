@@ -1,0 +1,108 @@
+Bleegblorgumab in Conjunction with Prednisolone in HER2+ MBC Patients: An
+Open Label Study
+
+Introduction: 
+HER2-positive metastatic breast cancer (HER2+ MBC) accounts for
+approximately 20% of all breast cancer cases and is associated with an
+aggressive disease course and poor prognosis. Although targeted therapies, such
+as trastuzumab and pertuzumab, have improved outcomes in HER2+ MBC, resistance
+and disease progression remain significant challenges. Therefore, there is a
+need to explore novel therapeutic approaches to overcome treatment resistance
+and further improve patient outcomes.
+
+Bleegblorgumab is a monoclonal antibody specifically designed to target HER2,
+inhibiting the downstream signaling pathways involved in HER2-driven breast
+cancer growth and survival. Preclinical studies have demonstrated its efficacy
+in HER2+ breast cancer models, both as a monotherapy and in combination with
+other agents. This open-label study aims to evaluate the efficacy and safety of
+Bleegblorgumab in combination with Prednisolone in HER2+ MBC patients who have
+received prior HER2-directed therapy.
+
+Methods: 
+This open-label, single-arm study enrolled HER2+ MBC patients who had
+received prior HER2-directed therapy. Bleegblorgumab was administered
+intravenously at a dose of 10 mg/kg every three weeks, in conjunction with oral
+Prednisolone at 10 mg/day. The primary endpoint was overall response rate (ORR),
+while secondary endpoints included progression-free survival (PFS), overall
+survival (OS), and safety.
+
+Assessment and Endpoints: 
+Patients were evaluated at regular intervals for treatment response and safety
+assessments. Radiographic imaging, such as computed tomography (CT) scans or
+magnetic resonance imaging (MRI), was performed to assess tumor response based
+on the Response Evaluation Criteria in Solid Tumors (RECIST) guidelines.
+
+The primary endpoint of the study was the overall response rate (ORR), defined
+as the proportion of patients achieving a complete response (CR) or partial
+response (PR). Secondary endpoints included progression-free survival (PFS),
+overall survival (OS), and safety.
+
+ORR was assessed by an independent review committee, and responses were
+categorized according to RECIST criteria. PFS was defined as the time from
+treatment initiation to disease progression or death from any cause. OS was
+calculated from the start of treatment until death from any cause or the last
+follow-up visit.
+
+Safety assessments included monitoring and documentation of adverse events (AEs)
+according to the Common Terminology Criteria for Adverse Events (CTCAE)
+guidelines. AEs were graded for severity, and the relationship to the study
+treatment was determined.
+
+Statistical Analysis:
+Descriptive statistics were used to summarize patient demographics, baseline
+characteristics, and treatment outcomes. The Kaplan-Meier method was employed to
+estimate PFS and OS, and the log-rank test was used for between-group
+comparisons. The ORR and disease control rate (DCR) were reported with their
+corresponding confidence intervals.
+
+Results:
+Patient Demographics and Baseline Characteristics:
+A total of 50 HER2+ MBC patients were enrolled in the study. The median age was
+54 years (range: 36-72), and the majority of patients had received prior
+trastuzumab-based therapy. Baseline characteristics, including hormone receptor
+status and metastatic sites, were well-balanced among the study population.
+
+Efficacy Outcomes:
+The combination of Bleegblorgumab and Prednisolone demonstrated promising
+efficacy in HER2+ MBC patients. The ORR was 70%, with 35 patients achieving a
+partial response and 7 patients achieving a complete response. The DCR, which
+included stable disease, was 92%.
+
+The median PFS was 12.5 months, indicating a significant delay in disease
+progression. The median OS was not reached at the time of data analysis,
+suggesting a potential survival benefit with this combination therapy.
+
+Results: 
+A total of 50 HER2+ MBC patients were enrolled in the study. The median
+age was 54 years (range: 36-72), and the majority had received prior
+trastuzumab-based therapy. The ORR was 70%, with 35 patients achieving a partial
+response and 7 patients achieving a complete response. The disease control rate
+was 92%. The median PFS was 12.5 months, and the median OS was not reached at
+the time of data analysis. Adverse events were generally manageable, with the
+most common being fatigue, nausea, and peripheral neuropathy.
+
+Safety Profile:
+The combination of Bleegblorgumab and Prednisolone was generally well-tolerated.
+Adverse events were mostly mild to moderate in severity. The most commonly
+reported AEs included fatigue, nausea, and peripheral neuropathy. No unexpected
+safety concerns were identified, and no treatment-related deaths occurred during
+the study period.
+
+Discussion:
+The results of this open-label study demonstrate the promising efficacy and
+manageable safety profile of Bleegblorgumab in combination with Prednisolone in
+HER2+ MBC patients. The high ORR and DCR, along with the significant improvement
+in PFS, suggest that this treatment regimen may offer a valuable therapeutic
+option for HER2+ MBC patients who have previously received HER2-directed
+therapy.
+
+The combination of Bleegblorgumab, a HER2-targeted monoclonal antibody, with
+Prednisolone, an immunomodulatory agent, may enhance anti-tumor activity and
+overcome treatment resistance. The favorable safety profile supports the
+feasibility of administering this combination in the clinical setting.
+
+However, it is important to acknowledge the limitations of this study, including
+its open-label design and single-center setting. Larger randomized controlled
+trials are needed to confirm these findings and further evaluate the long-term
+safety and efficacy of Bleegblorgumab in combination with Prednisolone in HER2+
+MBC patients.
