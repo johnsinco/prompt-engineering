@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "git@github.com:johnsinco/prompt-engineering.git"
+  site-url: "https://johnsinco.github.io/git@github.com:johnsinco/prompt-engineering.git"
+  description: "Some notes on prompt engineering using GPT / LLM"
+  repo-branch: main
+  repo-url: "https://github.com/johnsinco/git@github.com:johnsinco/prompt-engineering.git"
